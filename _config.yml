@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Joe's Web Projects
 description: Collection of web based projects
+include: ['projects']
